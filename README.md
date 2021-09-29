@@ -27,33 +27,31 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+## Getting Started
 
-### Setup
+This repository includes files with plain SQL that can be used to recreate a database:
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- Use [schema.sql](./schema.sql) to create all tables.
+- Use [data.sql](./data.sql) to populate tables with sample data.
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Tendai Nyandoro**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Tendai Nyandoro](https://github.com/tnyandoro)
+- Twitter: [@tendainyandoro](https://twitter.com/tendainyandoro)
+- LinkedIn: [Tendai Nyandoro](https://www.linkedin.com/in/tendai-nyandoro/)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+## 👤 **Elisha Kyakopo**
+
+  Linkedin: [Elisha Kyakopo](https://www.linkedin.com/in/elisha-kyakopo/)
+
+  Github: [@elisha2kyakpo1](https://github.com/elisha2kyakpo1)
+
+  Twitter: [@elisha1k](https://twitter.com/Elisha1k)
 
 ## 🤝 Contributing
 
