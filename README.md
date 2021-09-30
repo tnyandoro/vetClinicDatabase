@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# VETCLINIC DATABASE
+# VetClinic Database
 
 > In this project we had a chance to optimize some slow queries in the database. We created database table and we inserted more rows, which affected the database execution time.
 
@@ -15,6 +15,12 @@ This repo contains SQL commands which can be used to create database tables and 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
+
+This repository includes files with plain SQL that can be used to recreate a database:
+
+- Use [schema.sql](./schema.sql) to create all tables.
+- Use [data.sql](./data.sql) to populate tables with sample data.
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
 ### Prerequisites
 
@@ -42,12 +48,25 @@ sudo -u postgres psql
   Github: [@elisha2kyakpo1](https://github.com/elisha2kyakpo1)
 
   Twitter: [@elisha1k](https://twitter.com/Elisha1k)
+- Postgresql
+- VScode
 
-👤 **Author2**
+## Authors
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Tendai Nyandoro**
+
+- GitHub: [@Tendai Nyandoro](https://github.com/tnyandoro)
+- Twitter: [@tendainyandoro](https://twitter.com/tendainyandoro)
+- LinkedIn: [Tendai Nyandoro](https://www.linkedin.com/in/tendai-nyandoro/)
+
+
+## 👤 **Elisha Kyakopo**
+
+  Linkedin: [Elisha Kyakopo](https://www.linkedin.com/in/elisha-kyakopo/)
+
+  Github: [@elisha2kyakpo1](https://github.com/elisha2kyakpo1)
+
+  Twitter: [@elisha1k](https://twitter.com/Elisha1k)
 
 ## 🤝 Contributing
 
