@@ -1,53 +1,47 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# VETCLINIC DATABASE
 
-> One paragraph statement about the project.
+> In this project we had a chance to optimize some slow queries in the database. We created database table and we inserted more rows, which affected the database execution time.
 
-![screenshot](./app_screenshot.png)
+![screenshot](/database-relations.png)
 
-Additional description about the project and its features.
+This repo contains SQL commands which can be used to create database tables and inserting of data.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- SQL(postgresql)
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
 ### Setup
+postgresql database
 
 ### Install
+if you are using ubuntu machine, follow the commands below
+```
+sudo apt update
+sudo apt install postgresql postgresql-contrib
+```
 
 ### Usage
-
-### Run tests
-
-### Deployment
-
-
+Accessing a Postgres Prompt Without Switching Accounts
+```
+sudo -u postgres psql
+```
 
 ## Authors
+## 👤 **Elisha Kyakopo**
 
-👤 **Author1**
+  Linkedin: [Elisha Kyakopo](https://www.linkedin.com/in/elisha-kyakopo/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+  Github: [@elisha2kyakpo1](https://github.com/elisha2kyakpo1)
+
+  Twitter: [@elisha1k](https://twitter.com/Elisha1k)
 
 👤 **Author2**
 
